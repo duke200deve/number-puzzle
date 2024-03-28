@@ -1,0 +1,36 @@
+
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(./element-set-ten-numbers-form-260nw-684054532.webp);
+    font-family: sans-serif;
+}
+.container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 20px;
+    background-color:cornflowerblue;
+    border: 5px solid blueviolet;
+    width: 575px;
+    margin-top: 150px;
+
+}
+h3{
+    font-size: 30px;
+}
+input{
+    height: 25px;
+    font-size: 20px;
+}
+button{
+    font-size: 18px;
+    background-color: crimson;
+    color: white;
+}
+p{
+    font-size: 20px;
+}
